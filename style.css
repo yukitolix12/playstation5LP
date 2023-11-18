@@ -14,3 +14,10 @@ body {
     rgba(9, 7, 64, 1) 100%
     );
 }
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5rem 11rem;
+}
