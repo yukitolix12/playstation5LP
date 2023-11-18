@@ -39,4 +39,6 @@ nav ul li a {
     color: white;
     text-decoration: none;
     font-size: 2rem;
+    font-weight: 600;
+    margin-right: 45px;
 }
