@@ -25,3 +25,8 @@ header {
 .logo {
     width: 65px;
 }
+
+nav ul li {
+    list-style: none;
+    display: inline-block;
+}
