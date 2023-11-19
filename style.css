@@ -78,3 +78,14 @@ nav ul li a:hover {
     margin-bottom: 40px; 
     position: relative;
 }
+
+.title-section .title::before {
+    content: "";
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: -35px;
+    width: 10px;
+    height: 100%;
+    background: linear-gradient(to bottom, rgb(233, 130, 219),rgb(158, 80, 158));
+}
