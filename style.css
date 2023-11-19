@@ -61,3 +61,7 @@ nav ul li a:hover {
     align-items: center;
     justify-content: space-evenly;
 }
+
+.container .title-section {
+    color: white;
+}
