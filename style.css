@@ -49,6 +49,11 @@ nav ul li a:hover {
 }
 
 /* main section */
+.main {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
 .container {
     width: 100%;
     height: 100%;
