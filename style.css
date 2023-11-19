@@ -101,3 +101,14 @@ nav ul li a:hover {
     font-weight: 700;
     margin-bottom: 30px;
 }
+
+.price button {
+    padding: 15px 40px;
+    background: linear-gradient(to right, rgb(233, 130, 219),rgb(158, 80, 158));
+    border: none;
+    color: white;
+    font-weight: 600;
+    font-size: 1.5rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
