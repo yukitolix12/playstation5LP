@@ -89,3 +89,9 @@ nav ul li a:hover {
     height: 100%;
     background: linear-gradient(to bottom, rgb(233, 130, 219),rgb(158, 80, 158));
 }
+
+.title-section h3 {
+    font-size: 2rem;
+    color: rgb(177, 177, 177);
+    margin-bottom: 10px;
+}
