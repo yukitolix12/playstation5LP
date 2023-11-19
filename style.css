@@ -95,3 +95,9 @@ nav ul li a:hover {
     color: rgb(177, 177, 177);
     margin-bottom: 10px;
 }
+
+.price p {
+    font-size: 1.7rem;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
