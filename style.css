@@ -122,3 +122,7 @@ nav ul li a:hover {
 .plastation5 {
     width: 600px;
 }
+
+.image-section {
+    position: relative;
+}
