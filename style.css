@@ -73,3 +73,8 @@ nav ul li a:hover {
     margin-bottom: 25px;
     line-height: 70px;
 }
+
+.title-section .title {
+    margin-bottom: 40px; 
+    position: relative;
+}
