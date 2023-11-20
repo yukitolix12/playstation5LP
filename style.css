@@ -143,3 +143,8 @@ nav ul li a:hover {
 footer {
     display: flex;
 }
+
+footer ul li a {
+    color: white;
+    font-size: 2.3rem;
+}
