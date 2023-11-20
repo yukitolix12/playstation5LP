@@ -138,3 +138,8 @@ nav ul li a:hover {
     z-index: -1;
     border-radius: 20px;
 }
+
+/* footer section */
+footer {
+    display: flex;
+}
