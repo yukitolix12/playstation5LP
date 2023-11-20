@@ -129,8 +129,8 @@ nav ul li a:hover {
 
 .image-section::after {
     content: "";
-    width: 140px;   
-    height: 60px;
+    width: 140%;   
+    height: 65%;
     background: linear-gradient(to right, rgb(233, 130, 219),rgb(158, 80, 158));
     position: absolute;
     top: 10%;
