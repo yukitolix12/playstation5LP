@@ -126,3 +126,15 @@ nav ul li a:hover {
 .image-section {
     position: relative;
 }
+
+.image-section::after {
+    content: "";
+    width: 140px;   
+    height: 60px;
+    background: linear-gradient(to right, rgb(233, 130, 219),rgb(158, 80, 158));
+    position: absolute;
+    top: 10%;
+    left: 60px;
+    z-index: -1;
+    border-radius: 20px;
+}
