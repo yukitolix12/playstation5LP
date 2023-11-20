@@ -142,6 +142,9 @@ nav ul li a:hover {
 /* footer section */
 footer {
     display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
 }
 
 footer ul li a {
