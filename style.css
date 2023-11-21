@@ -147,6 +147,11 @@ footer {
     margin-bottom: 30px;
 }
 
+footer ul li {
+    list-style: none;
+    display: inline-block;
+}
+
 footer ul li a {
     color: white;
     font-size: 2.3rem;
