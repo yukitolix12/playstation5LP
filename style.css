@@ -159,3 +159,8 @@ footer ul li a {
     margin-right: 45px;
     font-weight: 600;
 }
+
+footer ul li a:hover {
+    color: #0172ce;
+    transform: translateY(-10px);
+}
